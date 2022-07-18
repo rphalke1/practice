@@ -98,6 +98,8 @@ public class LoginStepDefinations {
 	@Then("sign up is successfully done.")
 	public void sign_up_is_successfully_done() {
 		System.out.println("signed up successfully");
+		System.out.println("signed up successfully");
+		System.out.println("signed up successfully");
 	}
 
 	@When("^User enters username (.+) and (.+)$")

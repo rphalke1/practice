@@ -7,6 +7,5 @@ public class TestClass {
 		s= s.trim();
 		//s=s.replaceAll(" ", "");
 		System.out.println("digits are "+s);
-		System.out.println("new line");
 	}
 }

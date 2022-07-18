@@ -18,4 +18,8 @@ public class Hooks {
 	public void commonAfter() {
 		System.out.println("Common after Hook");
 	}
+	
+	public void newMethod() {
+		System.out.println("Common after Hook");
+	}
 }

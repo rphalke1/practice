@@ -106,5 +106,7 @@ public class LoginStepDefinations {
 	public void user_enters_username_user1_and_pass1(String username, String password) {
 		System.out.println(username);
 		System.out.println(password);
+		System.out.println("new line added 1");
+		System.out.println("new line added 2");
 	}
 }

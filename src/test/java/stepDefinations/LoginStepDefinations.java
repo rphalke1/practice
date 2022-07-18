@@ -107,9 +107,4 @@ public class LoginStepDefinations {
 		System.out.println(username);
 		System.out.println(password);
 	}
-	
-	@When("User clicks submit button")
-	public void user_clicks_submit_button1() {
-		System.out.println("submit clicked");
-	}
 }
